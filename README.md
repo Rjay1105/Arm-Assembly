@@ -1,7 +1,8 @@
 # Arm-Assembly
 This is a script that allows for the easy installation and creation of Assembled Arm programs.
 It must be noted that this script will only work on a Linux Debian system.
-It must be noted that the provided bash script does not include an emulator to run the assembled programs. This omission has occurred as there are many different emulators. This script will allow for the easy creation of binaries that can be run in whatever way the user sees fit. 
+It must be noted that the provided bash script does not include an emulator to run the assembled programs. This omission has occurred as there are many different emulators. This script will allow for the easy creation of binaries that can be run in whatever way the user sees fit.
+There is a script for both 32 bit and 64 bit. 
 
 The script was created as it can be tedious to install all the required dependencies to Assemble Assembly code.
 The script will check to see if any of the dependencies are already installed if they are will proceed to assemble the code and create the binary file.
