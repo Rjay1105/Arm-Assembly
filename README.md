@@ -19,4 +19,6 @@ This script should run successfully every time but there have been issues when i
 
 <img width="561" alt="Screenshot 2023-10-20 at 12 46 30" src="https://github.com/Rjay1105/Arm-Assembly/assets/102324608/289f06e4-7991-4d50-a3b8-bc7f6d217c8e">
 
+Provided within is a very basic hello world script called hello.s. This has been provided for ease of testing that the script is working correctly. When the script has completed there should be 2 files within the directory one called <FILENAME>.s and a binary file with the same name.
 
+<img width="511" alt="Screenshot 2023-10-20 at 12 59 53" src="https://github.com/Rjay1105/Arm-Assembly/assets/102324608/bf664daf-af96-4c9c-8799-d89a38f247a3">
