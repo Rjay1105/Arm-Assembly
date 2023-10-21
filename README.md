@@ -23,3 +23,5 @@ This script should run successfully every time but there have been issues when i
 Provided within is a very basic hello world script called hello.s. This has been provided for ease of testing that the script is working correctly. When the script has completed there should be 2 files within the directory one called <FILENAME>.s and a binary file with the same name.
 
 <img width="511" alt="Screenshot 2023-10-20 at 12 59 53" src="https://github.com/Rjay1105/Arm-Assembly/assets/102324608/bf664daf-af96-4c9c-8799-d89a38f247a3">
+
+There will also be other scripts created on another repository. These scripts will allow for the assembling of x86 on arm both 64 and 32 bit. Another will be created for x86 natively in both 32 and 64 bit configuration.
